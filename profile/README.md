@@ -1,3 +1,6 @@
+![new6](https://user-images.githubusercontent.com/119469038/210111370-575c1231-49f1-4ec9-9e23-1bb764d4bd13.jpeg)
+
+
 # Amalgamated Interactive Maneuvering Dynamic Solutions <a href="https://linkedin.com/company/aimdmx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelucienleighton" height="30" width="40" /></a>
 
 AIM DYNAMIX is a group of exceptionally talented people. Determined in innovation for Healthcare Advancements: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Amalgamated Composite Artificial Intelligence.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
@@ -16,6 +19,5 @@ We are primarily driven to generate breakthrough ideas and convert them into sol
 
   [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/1lucien)
 
-![new6](https://user-images.githubusercontent.com/119469038/210111370-575c1231-49f1-4ec9-9e23-1bb764d4bd13.jpeg)
 
 
