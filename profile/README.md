@@ -8,7 +8,7 @@ Our Team deeply cares about real-world implications and applications. Many of ou
 We are primarily driven to generate breakthrough ideas and convert them into solutions. We respect innovation over tradition. We trust that our differences make us more robust, and so we seek reason within every difference of perspective.
 
 
-### Copyright (c) 2022-2023 AIM DYNAMIX, L.AgH 2022. All Rights Reserved
+### Copyright (c) 2023 AIM DYNAMIX. All Rights Reserved
 
 # For further information, contact us via email: ai@theleightonhaus.com 
 
