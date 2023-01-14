@@ -17,7 +17,6 @@ We are primarily driven to generate breakthrough ideas and convert them into sol
 
   <h3 align="middle">
 
-  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/1lucien)
 
 
 
