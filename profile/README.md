@@ -16,8 +16,9 @@ For further information, contact us via email: ai@theleightonhaus.com
   
 ![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/119469038/209342013-ad59d147-7591-4a96-8714-495374bf51ad.png)
 
-Copyright (c) 2023 Leighton Avant-Garde Haus. All Rights Reserved
+©2023 AIM DYNAMIX 
 
 
-<a href="https://linkedin.com/company/aimdmx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelucienleighton" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/company/aimdmx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimdynamix" height="30" width="40" /></a>
 
