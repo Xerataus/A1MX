@@ -11,7 +11,7 @@ Our Team deeply cares about real-world implications and applications. Many of ou
 We are primarily driven to generate breakthrough ideas and convert them into solutions. We respect innovation over tradition. We trust that our differences make us more robust, and so we seek reason within every difference of perspective.
 
 
-# For further information, contact us via email: ai@theleightonhaus.com 
+## For further information, contact us via email: ai@theleightonhaus.com 
 
   <h3 align="middle">
   
