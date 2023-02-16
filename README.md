@@ -17,5 +17,5 @@ We are primarily driven to generate breakthrough ideas and convert them into sol
 
 
 
-<a href="https://linkedin.com/company/aimdmx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimdynamix" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/aimdynmix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimdynamix" height="35" width="45" /></a>
 
