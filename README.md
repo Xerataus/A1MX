@@ -2,11 +2,16 @@
 
   <h3 align="middle">
 
-Leighton Avant-Garde Haus is a privately held firm based out of Charlotte, North Carolina. Our Avant-Garde Technologies is driven to polar innovational advancements in Private Sector Enterprises. Our team is passionate in exceeding our mission to provide the necessary development for our future generations to evolve in technology. Leighton AGH' stack of unique Advanced Technologies serves our clients with unimaginable creative innovation.
+AIM DYNAMIX is a group of exceptionally talented people. Determined in innovation for Healthcare Advancements: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Amalgamated Composite Artificial Intelligence.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
 
-Bespoke Technologies ultimately provides our Clients with unimaginable solutions to productivity and company advancements. Resulting in exponential growth and expansion, creating a more serene apprehension towards company' quotas, missions, whilst simultaneously producing a healthier work-life balance for employees.
+ Utilizing our synergy with Leighton Avant-Garde Haus executes an avant-garde approach toward design, development, and technologies that offers determined innovation for Healthcare Advancements: inventing immeasurable new technologies that could expand our abilities, our community, and our world. 
 
- 
+
+Our Team deeply cares about real-world implications and applications. Many of our most considerable advances grow from working across multiple teams. We are unafraid to go against established norms and explore creativity.
+
+
+We are primarily driven to generate breakthrough ideas and convert them into solutions. We respect innovation over tradition. We trust that our differences make us more robust, and so we seek reason within every difference of perspective.
+
   <h3 align="middle">
 
   
