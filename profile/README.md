@@ -1,7 +1,7 @@
 
   <h3 align="middle">
 
-![original_27d0f17aad8f315d9743d20eb2e46624](https://user-images.githubusercontent.com/118361152/220469733-5b8f0899-f633-4871-8093-37ba78a99cd4.gif)
+![aimconsistentcy](https://user-images.githubusercontent.com/118361152/220471412-2b85871a-95df-4165-8b5e-dfb3e01c4e6a.gif)
 
 AIM DYNAMIX is a group of exceptionally talented people. Determined in innovation for Healthcare Advancements: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Amalgamated Composite Artificial Intelligence.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
 
