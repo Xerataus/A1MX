@@ -1,11 +1,11 @@
 # Copyright and License Policy
 
-### License 
-Copyright (c, ©, IP) 2021-2023 Leighton Avant-Garde Haus LLC 2021. All Rights Reserved
+ 
+Copyright (c, ©, IP) 2023 LEIGHTON AVANT-GARDE HAUS LLC. All Rights Reserved
 
-Copyright (c, ©, IP) 2022-2023 AIM DYNAMIX, L.AgH 2022. All Rights Reserved
+Copyright (c, ©, IP) 2023 AIM DYNAMIX, L.AgH 2022. All Rights Reserved
 
-This Policy applies to the Ownership and Employees of Leighton Avant-Garde Haus, L.AgH LLC. Leighton Avant-Garde Haus, a North Carolina Private Limited Liability Company and all of its subsidiaries (Subsidiares are to be assumed involved in the Company name "Leighton Avant-Garde Haus, The Leighton Haus (theleightonhaus) or L.AgH” respects the intellectual property rights of others and expects its users to do the same.
+This Policy applies to the Ownership and Employees of LEIGHTON AVANT-GARDE HAUS, L.AgH LLC AND AIM DYNAMIX, L.AgH. Leighton Avant-Garde Haus, a North Carolina Private Limited Liability Company and all of its subsidiaries (Subsidiares are to be assumed involved in the Company name "Leighton Avant-Garde Haus, The Leighton Haus, AIM DYNAMIX, Leighton AgH, or L.AgH") respects the intellectual property rights of others and expects its users to do the same.
 Compliance with the terms of this Policy is a condition of employment for Leighton Avant-Garde Haus employees, and of private members under Non-Disclosure Agreement Policy for Leighton Avant-Garde Haus investors. This Policy is supplemental to the Copyright Use and Ownership Policy of Leighton Avant-Garde Haus, and is subject to any applicable laws and regulations or to specific provisions in grants or contracts that govern rights in copyrighted works created in connection with sponsored research.
  All files and information contained in this Website are copyright by Leighton Avant-Garde Haus LLC , and may not be duplicated, copied, modified or adapted, in any way without our written permission. Our Website or Any Other Leighton Avant-Garde Haus IP' (Intellicetual Properties) may contain our service marks or trademarks as well as those of our affiliates or other companies, in the form of words, graphics, and logos. Your use of our Website, including our IP' (Intellicetual Properties) Portfolio and Services does not constitute any right or license for you to use our service marks or trademarks, without the prior written permission of Leighton Avant-Garde Haus LLC. Our Content, as found within our Website and Services, is protected under United States and foreign copyrights. The copying, redistribution, use or publication by you of any such Content, is strictly prohibited. Your use of our Website and Services does not grant you any ownership rights to our Content. 
 
@@ -43,7 +43,7 @@ Email: legal@theleightonhaus.com
 
 Leighton Avant-Garde Haus. AIM DYNAMIX
 Terms of Use
-These terms of use (“Terms”) govern your access to and use of all Leighton Avant-Garde Haus-branded publicly available websites, including sites located on theleightonhaus.com, lucienleighton.com, and any other pages that link to these Terms (collectively, the “Sites”).
+These terms of use (“Terms”) govern your access to and use of all Leighton Avant-Garde Haus Propertiesbranded publicly available websites, including sites located on theleightonhaus.com, lucienleighton.com, and any other pages that link to these Terms (collectively, the “Sites”).
  
 
 PLEASE READ CAREFULLY THESE TERMS AND THE Leighton Avant-Garde Haus PRIVACY POLICY(“PRIVACY POLICY”) WHICH IS INCORPORATED BY REFERENCE INTO THESE TERMS. BY ACCESSING OR USING ANY OF THE SITES, YOU REPRESENT THAT YOU ARE AT LEAST 18 YEARS OLD, YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE READ AND UNDERSTOOD THESE TERMS, AND YOU AGREE TO BE LEGALLY BOUND BY ALL OF THESE TERMS. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE THE SITES. WE SUGGEST YOU PRINT A COPY OF THESE TERMS FOR YOUR RECORDS.
@@ -60,7 +60,7 @@ Leighton Avant-Garde Haus provides the Sites to you conditioned upon your accept
 
 ‍
 
-If you have registered for and opened an account through the Sites (an “Account”), you are entirely responsible for maintaining the confidentiality of your Account information, including your password, and for any and all activity that occurs under your Account. You agree to notify Leighton Avant-Garde Haus immediately of any unauthorized use of your Account or password, or any other breach of security. However, you will remain responsible for losses incurred by Noble.AI or by any other party due to your knowingly or inadvertently permitting unauthorized use of your Account or your Account information. You may not use anyone else’s ID, password or account at any time unless we expressly pre-approve such use, or unless expressly permitted under a Services Agreement. Leighton Avant-Garde Haus cannot and will not be liable for any loss or damage arising from your failure to comply with these obligations. Registration for any account is void where the user lacks the requisite eligibility for registration or if such registration is otherwise prohibited.
+If you have registered for and opened an account through the Sites (an “Account”), you are entirely responsible for maintaining the confidentiality of your Account information, including your password, and for any and all activity that occurs under your Account. You agree to notify Leighton Avant-Garde Haus immediately of any unauthorized use of your Account or password, or any other breach of security. However, you will remain responsible for losses incurred by Leighton Avant-Garde Haus or by any other party due to your knowingly or inadvertently permitting unauthorized use of your Account or your Account information. You may not use anyone else’s ID, password or account at any time unless we expressly pre-approve such use, or unless expressly permitted under a Services Agreement. Leighton Avant-Garde Haus cannot and will not be liable for any loss or damage arising from your failure to comply with these obligations. Registration for any account is void where the user lacks the requisite eligibility for registration or if such registration is otherwise prohibited.
 
 ‍
 
@@ -84,7 +84,7 @@ Except solely as necessary for you to access the Sites for the intended purpose 
 
 
 
-### 3. Subject to your compliance with these Terms, solely for so long as you are permitted by Leighton Avant-Garde Haus to access and use the Sites, and provided that you keep intact all copyright and other proprietary notices, you may view Content and you may download and print the materials that Noble.AI specifically makes available for downloading from the Sites (such as white papers or user documentation), in each case solely for informational purposes and solely for personal or internal business use. INFORMATION SUBMITTED THROUGH OR TO OUR SITES
+### 3. Subject to your compliance with these Terms, solely for so long as you are permitted by Leighton Avant-Garde Haus to access and use the Sites, and provided that you keep intact all copyright and other proprietary notices, you may view Content and you may download and print the materials that Leighton Avant-Garde Haus specifically makes available for downloading from the Sites (such as white papers or user documentation), in each case solely for informational purposes and solely for personal or internal business use. INFORMATION SUBMITTED THROUGH OR TO OUR SITES
 
 ‍
 
@@ -116,7 +116,7 @@ For each Submission, you represent and warrant that you have all rights necessar
 
 ‍
 
-By accepting these Terms, you agree to our collection, use, and disclosure of your information as described in the Privacy Policy. No one under age 18 may register for an Account or provide any personal information to Leighton Avant-Garde Haus or to the Sites. If we learn that we have collected personal information from or about anyone under age 18, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at support@noble.ai with the subject “Child Data“.
+By accepting these Terms, you agree to our collection, use, and disclosure of your information as described in the Privacy Policy. No one under age 18 may register for an Account or provide any personal information to Leighton Avant-Garde Haus or to the Sites. If we learn that we have collected personal information from or about anyone under age 18, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at ai@theleightonhaus.com with the subject “Child Data“.
 
 Leighton Avant-Garde reserves the right to disclose any Submissions, and the circumstances surrounding their transmission, to any third party to operate the Sites, to protect Leighton Avant-Garde Haus or its suppliers or representatives, to protect users of the Sites, to comply with legal or regulatory obligations, to enforce these Terms, or for any other reason. Leighton Avant-Garde Haus is not responsible or liable for the conduct of, or your interactions with, any other users of the Sites (whether online or offline), or for any associated loss, damage, injury or harm. By using the Site, you may be exposed to Submissions that are offensive, indecent or objectionable and you agree that Leighton Avant-Garde Haus bears no liability for such exposure.
 
@@ -166,7 +166,7 @@ We may from time-to-time at our discretion host or provide links to services, pr
 
 ### 7. DISCLAIMER OF WARRANTIES
 
-YOU EXPRESSLY AGREE THAT YOUR USE OF THE SITES, INCLUDING ANY CONTENT, IS AT YOUR SOLE RISK. ALL OF THE SITES AND CONTENT ARE PROVIDED TO YOU ON AN “AS IS” AND “AS AVAILABLE” BASIS, AND Noble.AI MAKES NO RELATED REPRESENTATIONS, AND DISCLAIMS ALL POSSIBLE WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SITES OR CONTENT ARE ACCURATE, CONTINUOUSLY AVAILABLE, COMPLETE, RELIABLE, SECURE, CURRENT, ERROR-FREE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. Noble.AI CANNOT AND DOES NOT GUARANTEE THAT ANY DEFECTS, ERRORS OR OMISSIONS WILL BE CORRECTED, REGARDLESS OF WHETHER Noble.AI IS AWARE OF SUCH DEFECTS, ERRORS OR OMISSIONS.
+YOU EXPRESSLY AGREE THAT YOUR USE OF THE SITES, INCLUDING ANY CONTENT, IS AT YOUR SOLE RISK. ALL OF THE SITES AND CONTENT ARE PROVIDED TO YOU ON AN “AS IS” AND “AS AVAILABLE” BASIS, AND LEIGHTON AVANT-GARDE HAUS MAKES NO RELATED REPRESENTATIONS, AND DISCLAIMS ALL POSSIBLE WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SITES OR CONTENT ARE ACCURATE, CONTINUOUSLY AVAILABLE, COMPLETE, RELIABLE, SECURE, CURRENT, ERROR-FREE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. Noble.AI CANNOT AND DOES NOT GUARANTEE THAT ANY DEFECTS, ERRORS OR OMISSIONS WILL BE CORRECTED, REGARDLESS OF WHETHER Noble.AI IS AWARE OF SUCH DEFECTS, ERRORS OR OMISSIONS.
 
 ‍
 
@@ -192,7 +192,7 @@ THIS SECTION WILL BE GIVEN FULL EFFECT EVEN IF ANY REMEDY SPECIFIED IN THESE TER
 
 ### 9. INDEMNIFICATION
 
-To the fullest extent permitted by law, you agree to indemnify, defend and hold harmless Leighton Avant-Garde Haus, its officers, directors, shareholders, successors in interest, employees, agents, subsidiaries and affiliates, from and against any and all actual or threatened third party claims (groundless or otherwise), demands, losses, damages, costs and liability, proceedings (at law or in equity) and expenses (including reasonable attorneys’ and expert fees and costs of investigation) arising out of or in connection with (a) your use of the Sites, including without limitation any of your Submissions, (b) your breach of these Terms, including your breach of any covenant, representation, warranty, term, or condition set forth herein, including, without limitation, the obligations set forth in Section 3 (Information Submitted Through Our Sites) and Section 4 (Required Conduct While Using Our Sites), (c) your violation of any law or regulation or of any third party rights, including infringement, libel, misappropriation, or other violation of any third party’s intellectual property or other legal rights or (d) the disclosure, solicitation or use of any personal information by you, whether with or without your knowledge or consent. Leighton Avant-Garde Haus reserves the right, however, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and, in such case, you agree to cooperate with Noble.AI’ defense of such claim, and in no event may you agree to any settlement affecting Leighton Avant-Garde Haus without Leighton Avant-Garde Haus’ prior written consent.
+To the fullest extent permitted by law, you agree to indemnify, defend and hold harmless Leighton Avant-Garde Haus, its officers, directors, shareholders, successors in interest, employees, agents, subsidiaries and affiliates, from and against any and all actual or threatened third party claims (groundless or otherwise), demands, losses, damages, costs and liability, proceedings (at law or in equity) and expenses (including reasonable attorneys’ and expert fees and costs of investigation) arising out of or in connection with (a) your use of the Sites, including without limitation any of your Submissions, (b) your breach of these Terms, including your breach of any covenant, representation, warranty, term, or condition set forth herein, including, without limitation, the obligations set forth in Section 3 (Information Submitted Through Our Sites) and Section 4 (Required Conduct While Using Our Sites), (c) your violation of any law or regulation or of any third party rights, including infringement, libel, misappropriation, or other violation of any third party’s intellectual property or other legal rights or (d) the disclosure, solicitation or use of any personal information by you, whether with or without your knowledge or consent. Leighton Avant-Garde Haus reserves the right, however, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and, in such case, you agree to cooperate with Leighton Avant-Garde Haus' defense of such claim, and in no event may you agree to any settlement affecting Leighton Avant-Garde Haus without Leighton Avant-Garde Haus’ prior written consent.
 
 
 
@@ -210,7 +210,7 @@ Questions or comments about the Terms or about the Sites may be directed to Leig
 
 ### 12. CLAIMS OF COPYRIGHT INFRINGEMENT
 
-Leighton Avant-Garde Haus respects the intellectual property rights of others and we request that the people who use the Sites do the same. The Digital Millennium Copyright Act of 1998 (the “DMCA”) provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under U.S. copyright law. If you believe in good faith that materials available on the Sites infringe your copyright, you (or your agent) may send Leighton Avant-Garde Haus a notice requesting that we remove the material or block access to it. If you believe in good faith that someone has wrongly filed a notice of copyright infringement against you, you may send a counter-notice to Noble.AI under applicable provisions of the DMCA. Please note that substantial penalties under U.S. copyright law may be levied against any filer of a false counter-notice. Notices and counter-notices must meet the then-current statutory requirements imposed by the DMCA. See 17 U.S.C. § 512(c)(3), available at http://www.copyright.gov/title17/92chap5.html for details. Notices and counter-notices should be sent to:
+Leighton Avant-Garde Haus respects the intellectual property rights of others and we request that the people who use the Sites do the same. The Digital Millennium Copyright Act of 1998 (the “DMCA”) provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under U.S. copyright law. If you believe in good faith that materials available on the Sites infringe your copyright, you (or your agent) may send Leighton Avant-Garde Haus a notice requesting that we remove the material or block access to it. If you believe in good faith that someone has wrongly filed a notice of copyright infringement against you, you may send a counter-notice to Leighton Avant-Garde Haus under applicable provisions of the DMCA. Please note that substantial penalties under U.S. copyright law may be levied against any filer of a false counter-notice. Notices and counter-notices must meet the then-current statutory requirements imposed by the DMCA. See 17 U.S.C. § 512(c)(3), available at http://www.copyright.gov/title17/92chap5.html for details. Notices and counter-notices should be sent to:
 
 Attn: Legal Department/DMCA Copyright Agent
 
@@ -220,7 +220,6 @@ Leighton Avant-Garde Haus, L.AgH, LLC including Portfolio Holdings, and Register
 
 legal@theleightonhaus.com
 
-legals.nc.ca.fl@lucienleighton.com 
 
 You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys’ fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing. We encourage you to consult your legal advisor before filing a notice or counter-notice.
 
@@ -230,7 +229,7 @@ In accordance with the DMCA and other applicable law, Leighton Avant-Garde Haus 
 
 ### 13. GENERAL
 
-The Terms and the relationship between each user and Leighton Avant-Garde Haus shall be governed by the laws of the State of California, including governed laws of the State of North Carolina, AND lastly, the State of Florida to the fullest extent, without regard to its conflict of law provisions and each party shall submit to the personal and exclusive jurisdiction of the courts located in ;[San Francisco, California ~ Charlotte, North Carolina ~ and or Miami-Dade, Florida]. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Except to the extent a Services Agreement applies, these Terms, along with the Privacy Policy, constitute the entire agreement between you and Leighton Avant-Garde Haus with respect to your use of the Sites and supersede all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and Leighton Avant-Garde Haus with respect to the Sites. If any provision of the Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of the Terms remain in full force and effect. A party may only waive its rights under these Terms by a written document executed by both parties. Leighton Avant-Garde Haus’ failure to insist on or enforce strict performance of these Terms shall not be construed as a waiver by Leighton Avant-Garde Haus of any provision or any right it has to enforce these Terms, nor shall any course of conduct between Leighton Avant-Garde Haus and you or any other party be deemed to modify any provision of these Terms. The headings of the sections of these Terms are for convenience of reference only and are not intended to restrict, affect or be of any weight in the interpretation or construction of the provisions of such sections.
+The Terms and the relationship between each user and Leighton Avant-Garde Haus shall be governed by the laws of the State of North Carolina ~ laws of the forigen Federal Islamic parliamentary elective semi-constitutional monarchy Abu Dhabi, United Arab Emirates ~ the State of Florida to the fullest extent, without regard to its conflict of law provisions and each party shall submit to the personal and exclusive jurisdiction of the courts located in ; Charlotte, North Carolina ~ Abu Dhabi, United Arab Emirates ~ and or Miami-Dade, Florida]. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Except to the extent a Services Agreement applies, these Terms, along with the Privacy Policy, constitute the entire agreement between you and Leighton Avant-Garde Haus with respect to your use of the Sites and supersede all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and Leighton Avant-Garde Haus with respect to the Sites. If any provision of the Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of the Terms remain in full force and effect. A party may only waive its rights under these Terms by a written document executed by both parties. Leighton Avant-Garde Haus’ failure to insist on or enforce strict performance of these Terms shall not be construed as a waiver by Leighton Avant-Garde Haus of any provision or any right it has to enforce these Terms, nor shall any course of conduct between Leighton Avant-Garde Haus and you or any other party be deemed to modify any provision of these Terms. The headings of the sections of these Terms are for convenience of reference only and are not intended to restrict, affect or be of any weight in the interpretation or construction of the provisions of such sections.
 
 ‍
 
@@ -247,14 +246,14 @@ You acknowledge that your breach of any of the provisions of these Terms may cau
 You agree that we will not be liable for delays, failures, or inadequate performance of the Sites resulting from conditions outside of our reasonable control, including but not limited to natural disasters or other acts of God, failure of telecommunications networks or any other network or utility, threatened or actual acts of terrorism or war, riots, labor strikes, or governmental acts or orders.
 
 
-#Privacy Policy 
+# Privacy Policy 
 
-Privacy Policy for Leighton Avant-Garde Haus, L.AgH, LLC and Company Portfolio Holdings
+Privacy Policy for Leighton Avant-Garde Haus, L.AgH, LLC and Subsidiaries 
 
-The Leighton Haus properties, Leighton Avant-Garde Haus and AIM.DYNAMIX, Official GitHub links for Leighton Avant-Garde Haus and AIM DYNAMIX, Official Lucien Leighton Website(s) including Lucien Leighton LinkTree, p!a -Paige's Aesthetic, LLC,  one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by 'theleightonhaus (Leighton Avant-Garde Haus)' properties and how we use it.
+The Leighton Haus properties, Leighton Avant-Garde Haus and AIM DYNAMIX, Official GitHub links for Leighton Avant-Garde Haus and AIM DYNAMIX, Official Lucien Leighton Website(s). This Privacy Policy document contains types of information that is collected and recorded by 'theleightonhaus (Leighton Avant-Garde Haus)' properties and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in theleightonhaus. This policy is not applicable to any information collected offline or via channels other than this website, AIM DYNAMIX FORM SUBMISSIONS, Official Lucien Leighton LinkTree Partnership, and LucienLeighton.com 
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in theleightonhaus. This policy is not applicable to any information collected offline or via channels other than this website, AIM DYNAMIX USER DATA, and LucienLeighton.com 
 Consent
 
 By using our websites, you hereby consent to our Privacy Policy and agree to its terms.
@@ -318,3 +317,17 @@ Children's Information
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
 theleightonhaus does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+
+<h4 align="middle">
+  <img width="175" alt="Lhauslogoupdated" src="https://user-images.githubusercontent.com/119469038/220439784-45fd073d-efac-478e-8192-2ba05a678826.png">
+
+ <h3 align="middle">
+ 
+    
+  <h6 align="middle">
+
+  <a href="https://leightonavantgardehaus.github.io">
+  <img align="center" alt="Auth" width="30px" src="https://simpleicons.vercel.app/stackblitz/000" /> 
+
+<sub>©2023 LEIGHTON AVANT-GARDE HAUS</sub>
