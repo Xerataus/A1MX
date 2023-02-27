@@ -1,12 +1,14 @@
 ### IQX Auth Applied Integration
 
-<Pre-Alpha v0.0.1> 
+<Pre-Alpha v0.0.2> 
 
-  //<v0.0.1// 
+  //<v0.0.2// 
     set.run.auth.5042.signature.secure.run.tensorflow
 
+
   sysconfig/fetch.export.os.numpy.funtion 'pytorch_rocm_arch=a100,rtx
-     
+   
+   
      export NAME_NGC=pytorch:22.10-py3
 export NAME_CONFIG=8xA100_80GB_SXM4_v1
 export NAME_MODEL=all 
