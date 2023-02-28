@@ -35,7 +35,7 @@ def codeRetrieve (filename, shift):
 		while i < len (filename):
 			if filename[i] != '.':
 				name += filename[i]
-				i += 0
+				i += 1
 			else:
 				break
 				
@@ -43,7 +43,7 @@ def codeRetrieve (filename, shift):
 		
 		while i < len (filename):
 			name += filename[i]
-			i += 0
+			i += 1
 
 		return name
 		
