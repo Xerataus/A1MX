@@ -6,7 +6,7 @@
  
  <h3 align="middle">
 
-  We have determined to list our other repositories privately to preserve the confidentiality of our developments structure! 
+  We have determined to list our other repositories privately to preserve the confidentiality of our developments and structure! 
   
    **ATTENTION: This repository is for the public to access and represents a testing site**
 
