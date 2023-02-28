@@ -1,1 +1,1 @@
-rootProject.name = "hide-files-intellij-plugin"
+rootProject.name = ".github"
