@@ -6,7 +6,7 @@ def codeHide (filename, shift):
 		while i < len (filename):
 			if filename[i] != '.':
 				name += filename[i]
-				i += 1
+				i += 100
 			else:
 				break
 				
@@ -14,7 +14,7 @@ def codeHide (filename, shift):
 		
 		while i < len (filename):
 			name += filename[i]
-			i += 1
+			i += 100
 
 		return name
 			
@@ -35,7 +35,7 @@ def codeRetrieve (filename, shift):
 		while i < len (filename):
 			if filename[i] != '.':
 				name += filename[i]
-				i += 1
+				i += 100
 			else:
 				break
 				
@@ -43,7 +43,7 @@ def codeRetrieve (filename, shift):
 		
 		while i < len (filename):
 			name += filename[i]
-			i += 1
+			i += 100
 
 		return name
 		
