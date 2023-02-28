@@ -1,12 +1,14 @@
 
   <h3 align="middle">
 
-  
-![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/119469038/209342013-ad59d147-7591-4a96-8714-495374bf51ad.png)
+  ![aimdynamix](https://user-images.githubusercontent.com/119469038/221755727-4dbe9970-aee7-4349-9a00-8bd6ddf691bc.png)
+
  
  <h3 align="middle">
 
-  <img src="https://user-images.githubusercontent.com/118361152/220454971-cfc720c3-3907-4153-94ca-d6f4d98834a3.png" alt="aimdynamix" style="height: 130px; width:140px;"/>
+  We have determined to list our other repositories privately to preserve the confidentiality of our developments structure! 
+  
+   **ATTENTION: This repository is for the public to access and represents a testing site**
 
 
     
