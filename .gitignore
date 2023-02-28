@@ -1,3 +1,12 @@
+{
+.gradle
+.idea
+.qodana
+build
+}
+
+
+
 *.bin
 *.pyc
 pytorch/results/48GB/*
