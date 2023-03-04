@@ -5,7 +5,7 @@ Copyright (c, ©, IP) 2023 LEIGHTON AVANT-GARDE HAUS LLC. All Rights Reserved
 
 Copyright (c, ©, IP) 2023 XERATAUS, L.AgH 2022. All Rights Reserved
 
-This Policy applies to the Ownership and Employees of LEIGHTON AVANT-GARDE HAUS, L.AgH LLC AND AIM DYNAMIX, L.AgH. Leighton Avant-Garde Haus, a North Carolina Private Limited Liability Company and all of its subsidiaries (Subsidiares are to be assumed involved in the Company name "Leighton Avant-Garde Haus, The Leighton Haus, AIM DYNAMIX, Leighton AgH, or L.AgH") respects the intellectual property rights of others and expects its users to do the same.
+This Policy applies to the Ownership and Employees of LEIGHTON AVANT-GARDE HAUS, L.AgH LLC AND Xerataus, L.AgH. Leighton Avant-Garde Haus, a North Carolina Private Limited Liability Company and all of its subsidiaries (Subsidiares are to be assumed involved in the Company name "Leighton Avant-Garde Haus, The Leighton Haus, Xerataus, Leighton AgH, or L.AgH") respects the intellectual property rights of others and expects its users to do the same.
 Compliance with the terms of this Policy is a condition of employment for Leighton Avant-Garde Haus employees, and of private members under Non-Disclosure Agreement Policy for Leighton Avant-Garde Haus investors. This Policy is supplemental to the Copyright Use and Ownership Policy of Leighton Avant-Garde Haus, and is subject to any applicable laws and regulations or to specific provisions in grants or contracts that govern rights in copyrighted works created in connection with sponsored research.
  All files and information contained in this Website are copyright by Leighton Avant-Garde Haus LLC , and may not be duplicated, copied, modified or adapted, in any way without our written permission. Our Website or Any Other Leighton Avant-Garde Haus IP' (Intellicetual Properties) may contain our service marks or trademarks as well as those of our affiliates or other companies, in the form of words, graphics, and logos. Your use of our Website, including our IP' (Intellicetual Properties) Portfolio and Services does not constitute any right or license for you to use our service marks or trademarks, without the prior written permission of Leighton Avant-Garde Haus LLC. Our Content, as found within our Website and Services, is protected under United States and foreign copyrights. The copying, redistribution, use or publication by you of any such Content, is strictly prohibited. Your use of our Website and Services does not grant you any ownership rights to our Content. 
 
@@ -41,9 +41,9 @@ Email: legal@theleightonhaus.com
 
 # Terms of Use
 
-Leighton Avant-Garde Haus. AIM DYNAMIX
+Leighton Avant-Garde Haus. Xerataus
 Terms of Use
-These terms of use (“Terms”) govern your access to and use of all Leighton Avant-Garde Haus Propertiesbranded publicly available websites, including sites located on theleightonhaus.com, lucienleighton.com, and any other pages that link to these Terms (collectively, the “Sites”).
+These terms of use (“Terms”) govern your access to and use of all Leighton Avant-Garde Haus Propertiesbranded publicly available websites, including sites located on theleightonhaus.com, xerataus.one, lucienleighton.com, and any other pages that link to these Terms (collectively, the “Sites”).
  
 
 PLEASE READ CAREFULLY THESE TERMS AND THE Leighton Avant-Garde Haus PRIVACY POLICY(“PRIVACY POLICY”) WHICH IS INCORPORATED BY REFERENCE INTO THESE TERMS. BY ACCESSING OR USING ANY OF THE SITES, YOU REPRESENT THAT YOU ARE AT LEAST 18 YEARS OLD, YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE READ AND UNDERSTOOD THESE TERMS, AND YOU AGREE TO BE LEGALLY BOUND BY ALL OF THESE TERMS. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE THE SITES. WE SUGGEST YOU PRINT A COPY OF THESE TERMS FOR YOUR RECORDS.
@@ -250,10 +250,10 @@ You agree that we will not be liable for delays, failures, or inadequate perform
 
 Privacy Policy for Leighton Avant-Garde Haus, L.AgH, LLC and Subsidiaries 
 
-The Leighton Haus properties, Leighton Avant-Garde Haus and AIM DYNAMIX, Official GitHub links for Leighton Avant-Garde Haus and AIM DYNAMIX, Official Lucien Leighton Website(s). This Privacy Policy document contains types of information that is collected and recorded by 'theleightonhaus (Leighton Avant-Garde Haus)' properties and how we use it.
+The Leighton Haus properties, Leighton Avant-Garde Haus and Xerataus, Official GitHub links for Leighton Avant-Garde Haus and Xerataus, Official Lucien Leighton Website(s). This Privacy Policy document contains types of information that is collected and recorded by 'theleightonhaus (Leighton Avant-Garde Haus)' properties and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in theleightonhaus. This policy is not applicable to any information collected offline or via channels other than this website, AIM DYNAMIX USER DATA, and LucienLeighton.com 
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in theleightonhaus. This policy is not applicable to any information collected offline or via channels other than this website, Xerataus.one USER DATA, and LucienLeighton.com 
 Consent
 
 By using our websites, you hereby consent to our Privacy Policy and agree to its terms.
