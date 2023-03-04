@@ -3,7 +3,7 @@
 
 ![aimconsistentcy](https://user-images.githubusercontent.com/118361152/220471412-2b85871a-95df-4165-8b5e-dfb3e01c4e6a.gif)
 
-AIM DYNAMIX is a group of exceptionally talented people. Determined in innovation for Healthcare Advancements: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Amalgamated Composite Artificial Intelligence.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
+Xerataus is a group of exceptionally talented people. Determined in innovation for Healthcare Advancements: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Amalgamated Composite Artificial Intelligence.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
 
  Utilizing our synergy with Leighton Avant-Garde Haus executes an avant-garde approach toward design, development, and technologies that offers determined innovation for Healthcare Advancements: inventing immeasurable new technologies that could expand our abilities, our community, and our world. 
 
